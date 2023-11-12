@@ -12,6 +12,6 @@ This repository contains code and data to reproduce our results from "Rebalancin
 }
 
 # Reproducibility
-1. Download the dataset from "soon available", and copy it into the root folder.
-2. Install the conda environment using the yml file.
-3. Go into the script folder and run the scripts in following the numerical order.
+1. Download the dataset from the link "soon available" and copy it into the root folder.
+2. Install the Conda environment by executing the following command using the provided YAML file.
+3. Go into the script folder and run the scripts following the numerical order.
