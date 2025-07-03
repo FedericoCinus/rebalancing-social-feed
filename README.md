@@ -26,7 +26,7 @@ If you use this work, please cite:
 
 ## Reproducibility
 
-1. Download the dataset from: [https://github.com/FedericoCinus/Query-MinPD](https://github.com/FedericoCinus/Query-MinPD)
+1. Download the new version of the dataset from: [https://github.com/FedericoCinus/Query-MinPD](https://github.com/FedericoCinus/Query-MinPD)
 2. Set up the Conda environment using the provided YAML file:
    ```bash
    conda env create -f environment.yml
